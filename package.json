@@ -1,0 +1,9 @@
+{
+  "name": "react-ssr-benchmark",
+  "version": "1.0.0",
+  "dependencies": {
+    "@swc/cli": "^0.4.1-nightly.20240914",
+    "react": "next",
+    "react-dom": "next"
+  }
+}
